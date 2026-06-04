@@ -1,0 +1,6 @@
+{
+  "name": "Barkwell Studio",
+  "description": "Bespoke dog wellness, nutrition, grooming, and walking studio located in London.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
